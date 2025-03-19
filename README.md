@@ -4,7 +4,7 @@ This project showcases a simple React component for a "Join League" button. It w
 
 ## Project Demo 
 
-Live Site URL : [View Demo]()
+Live Site URL : [View Demo](https://anjie-mf.github.io/join-league-buttonV2/)
 
 ## Project Overview
 
