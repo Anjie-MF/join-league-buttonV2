@@ -1,9 +1,12 @@
 import './App.css'
 
-function App() {
+export default function App() {
   return (
-    <button className="button">Join League</button>
-    <button className="button" disabled>Join League (disabled)</button>
+    <div className="App">
+      <button className="button">Join League</button>
+      <button className="button" disabled>Join League (disabled)</button>
+    </div>
+
   )
 }
 
