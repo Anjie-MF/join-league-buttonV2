@@ -23,3 +23,15 @@
   background-color: blue;
 }
 
+.button:active {
+  transform: scale(0.5);
+  opacity: 0.85;
+}
+
+.button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  margin-left: 10px;
+}
+
+
